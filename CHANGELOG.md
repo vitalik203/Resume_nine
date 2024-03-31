@@ -1,5 +1,9 @@
 
 
+* font fix (a9668c1)
+* chore: release v0.0.2 (046c01d)
+* fix: finished prepare (dac90fd)
+
 * fix: finished prepare (dac90fd)
 
 ## 0.0.1 (2024-03-31)
