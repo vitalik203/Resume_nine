@@ -83,9 +83,17 @@
     margin-left: 39px;
     margin-top: 25px;
   }
-  .experiences-info {
+  .experiences-info:first-child {
     display: flex;
     margin-top: 21px;
+    margin-left: 35.72px;
+    column-gap: 21px;
+    height: fit-content;
+    max-width: 290px;
+  }
+  .experiences-info {
+    display: flex;
+    margin-top: 13px;
     margin-left: 35.72px;
     column-gap: 21px;
     height: fit-content;
