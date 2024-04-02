@@ -1,1 +1,12 @@
-/*# sourceMappingURL=styles.css.map */
+.wrapper {
+  width: 595px;
+  height: 842px;
+  margin: 45px auto;
+  border: 2px solid rgb(85, 85, 85);
+  display: grid;
+  grid-template-columns: 361px 234px;
+}
+
+.col2 {
+  background: rgb(85, 85, 85);
+}/*# sourceMappingURL=styles.css.map */

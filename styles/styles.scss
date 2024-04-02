@@ -1,0 +1,14 @@
+.wrapper {
+  width: 595px;
+  height: 842px;
+  margin: 45px auto;
+  border: 2px solid rgb(85, 85, 85);
+  display: grid;
+  grid-template-columns: calc(595px - 234px) 234px;
+}
+
+.col1 {
+}
+.col2 {
+  background: rgb(85, 85, 85);
+}
