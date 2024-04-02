@@ -70,7 +70,6 @@
     margin-top: 28px;
   }
   .experiences {
-    height: 180px;
     display: flex;
   }
   .vertical_line {
@@ -83,6 +82,17 @@
     margin-left: 39px;
     margin-top: 25px;
   }
+  .vertical_line-1 {
+    position: absolute;
+    content: "";
+    width: 1.2px;
+    height: 120px;
+    margin: 4px 0 4px 0;
+    background: rgb(165, 164, 164);
+    margin-left: 39px;
+    margin-top: 25px;
+  }
+
   .experiences-info:first-child {
     display: flex;
     margin-top: 21px;
@@ -156,6 +166,13 @@
     line-height: 12px;
     letter-spacing: 0%;
     text-align: left;
+  }
+  .trainings-cover {
+    display: flex;
+    column-gap: 45px;
+    max-width: 260px;
+    margin-left: 59px;
+    margin-top: 13px;
   }
 }
 .col2 {
