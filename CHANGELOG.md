@@ -1,5 +1,7 @@
 
 
+* fix: filled and stylized photo, name, proffession, address. Started filling and stylizing title part of sections (c394f10)
+
 * fix: created skeleton of second column of resume page (b0bc3b7)
 
 ## [0.1.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.0.7...0.1.0) (2024-04-02)
