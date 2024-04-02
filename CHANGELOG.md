@@ -1,5 +1,12 @@
 
 
+## [0.1.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.0.7...0.1.0) (2024-04-02)
+
+
+### Features
+
+* finished filling and stylizing first column of resume page ([f306eba](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/f306ebab616d0900d773eaee6d1ba6b14b17d8f0))
+
 * fix: finished filling training and reference sections (ba197501)
 
 * fix: finished filling experience section (5000618)
