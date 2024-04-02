@@ -211,4 +211,113 @@
 }
 .col2 {
   background: rgb(85, 85, 85);
+  display: flex;
+  flex-direction: column;
+  max-width: 234px;
+  .your-photo {
+    display: block;
+    width: 138.3px;
+    height: 138.3px;
+    border-radius: 50%;
+    margin: 55px 0 0 42px;
+  }
+  .your-name {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+  .your-proffession {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+  .small-hr_line {
+    content: "";
+    width: 116.88px;
+    height: 0.96px;
+    background: rgb(255, 255, 255);
+    margin: 0 auto;
+  }
+  .address {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+  .address-add {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+  .col2-title {
+    display: flex;
+    column-gap: 10px;
+    width: 150px;
+    margin-left: 31px;
+  }
+  .bold-vertical {
+    content: "";
+    width: 7.36px;
+    height: 22.3px;
+    background: rgb(122, 121, 120);
+    flex-shrink: 0;
+  }
+  .col2-title_text {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 15.01px;
+    font-weight: 800;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .hr-title {
+    content: "";
+    width: 10vw;
+    height: 1.92px;
+    background: rgb(122, 121, 120);
+    flex-shrink: 0;
+    margin: auto auto;
+    align-items: flex-end;
+  }
+  .contacts-cover {
+  }
+  .contact-cover {
+  }
+  .contact-logo {
+  }
+  .contact-link {
+  }
+  .skills-cover {
+  }
+  .skill-cover {
+  }
+  .skill-text {
+  }
+  .skill-level {
+  }
+  .hobbies-cover {
+  }
+  .hobby-cover {
+  }
+  .hobby-logo {
+  }
+  .hobby-name {
+  }
 }
