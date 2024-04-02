@@ -1,5 +1,7 @@
 
 
+* fix: created two columns of resume, and stylized background of second column (9ca1e93)
+
 * Merge branch 'develop' of https://github.com/vitalik203/Resume_nine into develop (36188b8)
 * fix: fix fonts (83a8770)
 * chore: release v0.0.2 (9a9d491)
