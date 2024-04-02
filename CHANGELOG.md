@@ -1,5 +1,7 @@
 
 
+* fix: added and stylized horizontal line, and also added first title of experience and stylized too (3c7c3af)
+
 * fix: added and stylized profile text, and also stilezed title section (f668475)
 * fix: connected fonts (d1a36c6)
 
