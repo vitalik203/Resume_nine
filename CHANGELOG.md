@@ -1,5 +1,7 @@
 
 
+* fix: finished filling training and reference sections (ba197501)
+
 * fix: finished filling experience section (5000618)
 
 * fix: added and stylized horizontal line, and also added first title of experience and stylized too (3c7c3af)
