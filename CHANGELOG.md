@@ -1,5 +1,7 @@
 
 
+* fix: finished filled and stylized hobby sections (6429994)
+
 * fix: filled and stylized skills section (eb026f4)
 
 * fix: fixed bugs in col2-title line (db6485e)
