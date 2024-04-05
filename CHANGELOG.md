@@ -1,5 +1,7 @@
 
 
+* fix: fixed bugs in col2-title line (db6485e)
+
 * fix: added contacts and at the same time stylized (20ea350)
 
 * fix: fixed some bugs with bold lines (4dd405e)
