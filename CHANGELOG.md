@@ -1,5 +1,7 @@
 
 
+* fix: added contacts and at the same time stylized (20ea350)
+
 * fix: fixed some bugs with bold lines (4dd405e)
 
 * fix: filled and stylized photo, name, proffession, address. Started filling and stylizing title part of sections (c394f10)
