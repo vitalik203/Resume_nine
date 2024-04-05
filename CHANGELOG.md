@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.1.7...0.2.0) (2024-04-05)
+
+
+### Bug Fixes
+
+* added margin for all sections of column 2 ([d0c9f3a](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/d0c9f3aa8c63854fc4d3fc25bfbc428d2347cbfb))
+
 * fix: finished filled and stylized hobby sections (6429994)
 
 * fix: filled and stylized skills section (eb026f4)
