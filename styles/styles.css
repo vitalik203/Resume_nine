@@ -274,6 +274,7 @@
   text-align: center;
 }
 .col2 .col2-title {
+  overflow: hidden;
   display: flex;
   -moz-column-gap: 10px;
        column-gap: 10px;
@@ -298,6 +299,7 @@
   white-space: nowrap;
 }
 .col2 .hr-title {
+  display: block;
   flex-shrink: 0;
   max-width: 100%;
   content: "";
