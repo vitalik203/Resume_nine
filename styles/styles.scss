@@ -341,4 +341,70 @@
   }
   .hobby-name {
   }
+  .skills-cover {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    margin-left: 48px;
+  }
+  .skill-cover {
+    display: flex;
+    column-gap: 28px;
+  }
+  .skill-text {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 12px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 49px;
+  }
+  .skill-level {
+    width: 74.64px;
+    height: 2.88px;
+    background: rgb(139, 139, 139);
+    margin: auto 0;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .photoshop-level {
+    height: 100%;
+    width: 67.19px;
+    background: rgb(237, 237, 237);
+    border-radius: 4px;
+  }
+  .illustrator-level {
+    height: 100%;
+    width: 64.71px;
+    background: rgb(237, 237, 237);
+    border-radius: 4px;
+  }
+  .coler_draw-level {
+    height: 100%;
+    width: 69.86px;
+    background: rgb(237, 237, 237);
+    border-radius: 4px;
+  }
+  .html_css-level {
+    height: 100%;
+    width: 64.71px;
+    background: rgb(237, 237, 237);
+    border-radius: 4px;
+  }
+  .js-level {
+    height: 100%;
+    width: 69.86px;
+    background: rgb(237, 237, 237);
+    border-radius: 4px;
+  }
+  .col2-title {
+  }
+  .bold-vertical {
+  }
+  .col2-title_text {
+  }
+  .hr-title {
+  }
 }

@@ -330,4 +330,63 @@
   line-height: 12px;
   letter-spacing: 0%;
   text-align: left;
+}
+.col2 .skills-cover {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  margin-left: 48px;
+}
+.col2 .skill-cover {
+  display: flex;
+  -moz-column-gap: 28px;
+       column-gap: 28px;
+}
+.col2 .skill-text {
+  color: rgb(255, 255, 255);
+  font-family: Open Sans;
+  font-size: 9px;
+  font-weight: 600;
+  line-height: 12px;
+  letter-spacing: 0%;
+  text-align: left;
+  width: 49px;
+}
+.col2 .skill-level {
+  width: 74.64px;
+  height: 2.88px;
+  background: rgb(139, 139, 139);
+  margin: auto 0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.col2 .photoshop-level {
+  height: 100%;
+  width: 67.19px;
+  background: rgb(237, 237, 237);
+  border-radius: 4px;
+}
+.col2 .illustrator-level {
+  height: 100%;
+  width: 64.71px;
+  background: rgb(237, 237, 237);
+  border-radius: 4px;
+}
+.col2 .coler_draw-level {
+  height: 100%;
+  width: 69.86px;
+  background: rgb(237, 237, 237);
+  border-radius: 4px;
+}
+.col2 .html_css-level {
+  height: 100%;
+  width: 64.71px;
+  background: rgb(237, 237, 237);
+  border-radius: 4px;
+}
+.col2 .js-level {
+  height: 100%;
+  width: 69.86px;
+  background: rgb(237, 237, 237);
+  border-radius: 4px;
 }/*# sourceMappingURL=styles.css.map */
