@@ -1,5 +1,7 @@
 
 
+* fix: filled and stylized skills section (eb026f4)
+
 * fix: fixed bugs in col2-title line (db6485e)
 
 * fix: added contacts and at the same time stylized (20ea350)
