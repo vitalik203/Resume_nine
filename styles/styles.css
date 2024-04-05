@@ -238,6 +238,8 @@
   line-height: 35px;
   letter-spacing: 0%;
   text-align: center;
+  margin-top: 26px;
+  margin-bottom: 11px;
 }
 .col2 .your-proffession {
   color: rgb(255, 255, 255);
@@ -253,7 +255,7 @@
   width: 116.88px;
   height: 0.96px;
   background: rgb(255, 255, 255);
-  margin: 0 auto;
+  margin: 18px auto;
 }
 .col2 .address {
   color: rgb(255, 255, 255);
@@ -312,7 +314,9 @@
 }
 .col2 .contacts-cover {
   row-gap: 4px;
+  margin-top: 17px;
   margin-left: 48px;
+  margin-bottom: 31px;
 }
 .col2 .contact-cover {
   display: flex;
@@ -336,6 +340,8 @@
   flex-direction: column;
   row-gap: 8px;
   margin-left: 48px;
+  margin-top: 18px;
+  margin-bottom: 30px;
 }
 .col2 .skill-cover {
   display: flex;
@@ -391,6 +397,7 @@
   border-radius: 4px;
 }
 .col2 .hobbies-cover {
+  margin-top: 15px;
   margin-left: 47px;
   display: grid;
   grid-template-columns: repeat(3, 50px);
