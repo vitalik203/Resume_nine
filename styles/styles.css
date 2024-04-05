@@ -389,4 +389,33 @@
   width: 69.86px;
   background: rgb(237, 237, 237);
   border-radius: 4px;
+}
+.col2 .hobbies-cover {
+  margin-left: 47px;
+  display: grid;
+  grid-template-columns: repeat(3, 50px);
+  row-gap: 12px;
+  -moz-column-gap: 6px;
+       column-gap: 6px;
+}
+.col2 .hobby-cover {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2px;
+  width: 50px;
+  height: 33px;
+}
+.col2 .hobby-logo {
+  display: block;
+  margin: 0 auto;
+}
+.col2 .hobby-name {
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-family: Open Sans;
+  font-size: 8px;
+  font-weight: 400;
+  line-height: 11px;
+  letter-spacing: 0%;
+  text-align: center;
 }/*# sourceMappingURL=styles.css.map */
