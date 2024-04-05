@@ -1,5 +1,7 @@
 
 
+## [1.0.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.2.0...1.0.0) (2024-04-05)
+
 ## [0.2.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/0.1.7...0.2.0) (2024-04-05)
 
 
