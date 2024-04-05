@@ -277,7 +277,7 @@
   display: flex;
   -moz-column-gap: 10px;
        column-gap: 10px;
-  width: 150px;
+  max-width: 168px;
   margin-left: 31px;
 }
 .col2 .bold-vertical {
@@ -299,6 +299,7 @@
 }
 .col2 .hr-title {
   flex-shrink: 0;
+  max-width: 100%;
   content: "";
   width: 10vw;
   height: 1.92px;
@@ -306,4 +307,25 @@
   flex-shrink: 0;
   margin: auto auto;
   align-items: flex-end;
+}
+.col2 .contacts-cover {
+  row-gap: 4px;
+  margin-left: 48px;
+}
+.col2 .contact-cover {
+  display: flex;
+  -moz-column-gap: 9px;
+       column-gap: 9px;
+}
+.col2 .contact-logo {
+  flex-shrink: 0;
+}
+.col2 .contact-link {
+  color: rgb(255, 255, 255);
+  font-family: Open Sans;
+  font-size: 9px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0%;
+  text-align: left;
 }/*# sourceMappingURL=styles.css.map */

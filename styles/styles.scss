@@ -271,7 +271,7 @@
   .col2-title {
     display: flex;
     column-gap: 10px;
-    width: 150px;
+    max-width: 168px;
     margin-left: 31px;
   }
   .bold-vertical {
@@ -293,6 +293,7 @@
   }
   .hr-title {
     flex-shrink: 0;
+    max-width: 100%;
     content: "";
     width: 10vw;
     height: 1.92px;
@@ -302,12 +303,25 @@
     align-items: flex-end;
   }
   .contacts-cover {
+    row-gap: 4px;
+
+    margin-left: 48px;
   }
   .contact-cover {
+    display: flex;
+    column-gap: 9px;
   }
   .contact-logo {
+    flex-shrink: 0;
   }
   .contact-link {
+    color: rgb(255, 255, 255);
+    font-family: Open Sans;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0%;
+    text-align: left;
   }
   .skills-cover {
   }
